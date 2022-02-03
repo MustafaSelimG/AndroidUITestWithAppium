@@ -1,6 +1,6 @@
 Feature: Login Case
 
-  Scenario Outline: : verify login
+  Scenario Outline: verify login
     When  I open the hamburger menu
     And I open the My Account section
     And I open the Sign In section
